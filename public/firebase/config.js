@@ -5,13 +5,13 @@ import { getAuth } from "https://www.gstatic.com/firebasejs/9.6.10/firebase-auth
 import { getFirestore } from "https://www.gstatic.com/firebasejs/9.6.10/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDc4SFwxcPZQjHFoBFIHTdYdlWJebuUghs",
-  authDomain: "student-teacher-booking-2356d.firebaseapp.com",
-  projectId: "student-teacher-booking-2356d",
-  storageBucket: "student-teacher-booking-2356d.appspot.com",
-  messagingSenderId: "1035416120076",
-  appId: "1:1035416120076:web:04cef982c010d06400b729",
-  measurementId: "G-VZ42Y25EZV"
+  apiKey: "YOURAPIKEY",
+  authDomain: "YOURDOMAIN",
+  projectId: "YOURPROJECTID",
+  storageBucket: "YOURSTORAGEBUCKET",
+  messagingSenderId: "YOURMESSAGINGSENDERID",
+  appId: "YOURAPPID",
+  measurementId: "YOURMEASUREMENTID"
 };
 
 // Initialize Firebase
